@@ -1,0 +1,56 @@
+STAR Method for Behavioral Interview Answers
+
+The STAR Method is the gold standard for answering behavioral interview questions:
+
+S - SITUATION: Set context. Be brief (1-2 sentences). When, where, what company, what team?
+T - TASK: What was your specific responsibility? What was the goal?
+A - ACTION: What did YOU specifically do? Use "I" not "we". Be specific about your individual contribution.
+R - RESULT: What happened? Quantify wherever possible. What did you learn?
+
+SAMPLE STAR STORIES BY THEME
+
+Theme: Leadership
+Situation: I was a mid-level engineer on a team where the lead left unexpectedly mid-project.
+Task: The team needed to continue delivering a payment integration with a hard external deadline.
+Action: I volunteered to take technical ownership. I held daily stand-ups, broke down remaining work, unblocked developers, coordinated with the external vendor, and updated leadership weekly.
+Result: We shipped on time. The integration processed $2M in transactions in its first month. I was promoted to senior engineer three months later.
+
+Theme: Conflict Resolution
+Situation: Two senior engineers disagreed on whether to use microservices or a monolith for a new product.
+Task: As the team lead, I needed to move us to a decision without losing either engineer.
+Action: I organized a structured technical review where each person presented their approach with trade-offs. I facilitated the discussion to separate technical arguments from personal preferences. We agreed on evaluation criteria and scored each option.
+Result: The team aligned on starting with a modular monolith with clear service boundaries, allowing future extraction. Both engineers felt heard. The product launched successfully.
+
+Theme: Failure and Learning
+Situation: I deployed a database migration that caused 45 minutes of downtime on a Monday morning.
+Task: I was responsible for the migration and the rollback plan.
+Action: I immediately activated incident response, communicated to stakeholders every 10 minutes, rolled back to the previous state, and spent the next week building a proper zero-downtime migration strategy.
+Result: We re-deployed 2 weeks later with no downtime. I documented the process and trained the team. This became our standard migration playbook.
+
+Theme: Innovation
+Situation: Our build times had grown from 5 to 35 minutes over two years, slowing down all 20 engineers.
+Task: I took it upon myself to investigate and fix the CI pipeline performance.
+Action: I profiled the pipeline, identified that Docker layer caching was misconfigured. I redesigned the Dockerfile structure and added incremental test caching.
+Result: Build times dropped from 35 minutes to 8 minutes. Engineering velocity increased noticeably. Estimated productivity gain: ~2 engineer-hours per day saved across the team.
+
+BEHAVIORAL QUESTION CATEGORIES
+
+Self-awareness questions:
+- What's your greatest weakness?
+- Tell me about a mistake you made.
+- What would your former manager say you could improve?
+
+Teamwork questions:
+- Tell me about a successful team project.
+- How do you handle a teammate who isn't contributing?
+- Describe working with a difficult coworker.
+
+Stress and ambiguity questions:
+- How do you handle multiple conflicting priorities?
+- Tell me about a time you had incomplete information but had to make a decision.
+- Describe the most stressful situation you've worked through professionally.
+
+Values and culture questions:
+- Why do you want to work here?
+- Describe the culture where you work best.
+- How do you approach learning new technologies?

@@ -1,0 +1,80 @@
+Software Engineering Interview Questions by Role and Level
+
+JUNIOR SOFTWARE ENGINEER
+Core expectations: Clean code, basic algorithms, OOP fundamentals
+Must know: Time/space complexity (Big-O), arrays, linked lists, hash maps, trees
+Typical questions:
+- Reverse a string or array in place
+- Find duplicates in an array
+- Implement a basic stack or queue
+- Explain OOP principles (encapsulation, inheritance, polymorphism)
+- Describe the difference between SQL and NoSQL databases
+
+MID-LEVEL SOFTWARE ENGINEER  
+Core expectations: End-to-end feature delivery, debugging, basic system design
+Must know: Design patterns, REST APIs, database indexing, testing strategies, CI/CD
+Typical questions:
+- Design a simple URL shortener
+- Explain SOLID principles with examples
+- How do you debug a memory leak?
+- Describe your testing strategy for a new feature
+- How do you approach code review?
+
+SENIOR SOFTWARE ENGINEER
+Core expectations: Technical leadership, architecture, mentoring
+Must know: System design at scale, distributed systems, performance optimization
+Typical questions:
+- Design a distributed rate limiter
+- How do you manage technical debt?
+- Describe a time you influenced technical direction
+- How would you improve system reliability from 99.9% to 99.99%?
+- How do you mentor engineers effectively?
+
+STAFF/PRINCIPAL ENGINEER
+Core expectations: Org-level technical direction, cross-team alignment
+Must know: Platform strategy, technical roadmap, build-vs-buy decisions
+Typical questions:
+- How have you driven architectural decisions across teams?
+- Describe a major technical risk you identified and mitigated
+- How do you balance innovation with stability?
+- How do you build technical consensus across disagreeing teams?
+
+DATA SCIENTIST
+Core expectations: Statistical analysis, ML model building, communication
+Must know: Python/R, ML algorithms, statistical significance, data cleaning
+Typical questions:
+- Explain the bias-variance trade-off
+- How do you handle missing data?
+- Explain A/B testing and statistical significance
+- What is cross-validation and why use it?
+- How would you detect model drift in production?
+
+MACHINE LEARNING ENGINEER
+Core expectations: ML at scale, model deployment, feature engineering
+Must know: MLOps, model serving, distributed training, feature stores
+Typical questions:
+- How do you serve an ML model at 100k requests/second?
+- Explain feature engineering best practices
+- How do you handle training-serving skew?
+- What is a feature store and why is it important?
+- How do you monitor ML models in production?
+
+DEVOPS/PLATFORM ENGINEER
+Core expectations: Infrastructure as code, CI/CD, reliability
+Must know: Kubernetes, Terraform, monitoring/alerting, cloud providers
+Typical questions:
+- Describe your approach to incident response
+- How do you design for high availability?
+- Explain blue-green vs canary deployments
+- How do you manage secrets securely?
+- What are the key metrics for measuring API performance?
+
+PRODUCT MANAGER (Technical)
+Core expectations: Requirements clarity, cross-functional leadership, prioritization
+Must know: Product metrics, user research, roadmap planning, stakeholder management
+Typical questions:
+- How do you prioritize a product backlog?
+- Describe a product you improved and what metrics changed
+- How do you handle conflicts between engineering and business stakeholders?
+- What does a good product requirements document include?
+- How do you measure product success?
